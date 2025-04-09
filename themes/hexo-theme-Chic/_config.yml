@@ -3,10 +3,10 @@ navname: Haoyang's Chronicle
 
 # navigatior items
 nav:
-  Posts: /博文
-  Categories: /话题
-  Tags: /关键词
-  About: /关于本博
+  Posts: /Posts
+  Categories: /Categories
+  Tags: /Tags
+  About: /About
 
 # favicon
 favicon: /favicon.ico
