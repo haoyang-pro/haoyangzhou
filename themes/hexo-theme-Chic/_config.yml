@@ -3,10 +3,10 @@ navname: Haoyang's Chronicle
 
 # navigatior items
 nav:
-  Posts: /archives
-  Categories: /category
-  Tags: /tag
-  About: /about
+  Posts: /博文
+  Categories: /话题
+  Tags: /关键词
+  About: /关于本博
 
 # favicon
 favicon: /favicon.ico
@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: Haoyang
 
 ### this variable is MarkDown form.
-description: Where there's a will, there's a way.
+description: 弱A.I.赋能数据科学领地 构造统计背景转型知识引擎
 avatar: /image/avatar.jpg
 
 # main menu navigation
