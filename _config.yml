@@ -3,12 +3,12 @@ Docs: https://hexo.io/docs/configuration.html
 Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Haoyang's Chronicle
 subtitle: ''
-description: ''
+description: '弱A.I.赋能数据科学领地<br>构造统计类学历职业转型知识引擎'
 keywords:
 author: Haoyang Zhou
-language: zh-CN
+language: zh-Hans
 timezone: ''
 
 # URL
