@@ -3,16 +3,16 @@ navname: Haoyang's Chronicle
 
 # navigatior items
 nav:
-  Posts: /Posts
-  Categories: /Categories
-  Tags: /Tags
-  About: /About
+  Posts: /archives
+  Categories: /category
+  Tags: /tag
+  About: /about
 
 # favicon
 favicon: /favicon.ico
 
 # Profile
-nickname: Haoyang
+nickname: Haoyang Chow
 
 ### this variable is MarkDown form.
 description: 弱A.I.赋能数据科学领地 构造统计类学历职业转型知识引擎
